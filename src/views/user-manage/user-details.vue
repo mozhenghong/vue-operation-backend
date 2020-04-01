@@ -17,7 +17,7 @@
         <div class="mainModule">
             <button class="editButton" @click="skip('/userEdit')">编辑资料</button>
         </div>
-        <p>Copyright © 杭州共享实验科技发展有限公司</p>
+        <p>Copyright © ‘’</p>
       </div>
     </div>
   </div>

@@ -66,7 +66,7 @@
             </div>
           </div>
         </div>
-        <p>Copyright © 杭州共享实验科技发展有限公司</p>
+        <p>Copyright © ‘’</p>
       </div>
     </div>
   </div>

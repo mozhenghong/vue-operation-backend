@@ -30,7 +30,7 @@
             <el-button style="margin-top: 12px;" @click="next" class="next">下一步</el-button>
           </div>
         </div>
-        <p>Copyright © 杭州共享实验科技发展有限公司</p>
+        <p>Copyright © ‘’</p>
       </div>
     </div>
   </div>

@@ -10,14 +10,14 @@
         >
         <div>
           <h4>早安，xxx</h4>
-          <p>欢迎使用GX labtech运营维护系统</p>
+          <p>欢迎使用后台管理运营维护系统</p>
         </div>
       </div>
       <div class="body">
         <div class="mainModule">
            <img src="@/assets/home.jpg"/>
         </div>
-        <p>Copyright © 杭州共享实验科技发展有限公司</p>
+        <p>Copyright © ‘’</p>
       </div>
     </div>
   </div>
